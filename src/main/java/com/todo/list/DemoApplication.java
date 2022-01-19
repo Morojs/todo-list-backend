@@ -1,4 +1,4 @@
-package com.todo.list.demo;
+package com.todo.list;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
